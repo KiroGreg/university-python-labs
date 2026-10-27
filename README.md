@@ -2,7 +2,7 @@
 
 A collection of Python laboratory works, algorithmic exercises, and data analysis scripts from university courses.
 
-## 📂 Repository Structure
+## Repository Structure
 
 - **`lab02_numerical_series.py`** — Numerical series expansion calculation with custom exception handling and precision control.
 - **`lab03_tree_simulation.py`** — Spatial grid simulation analyzing orchard tree health and survival distances.
@@ -11,7 +11,7 @@ A collection of Python laboratory works, algorithmic exercises, and data analysi
 - **`weather.csv` / `weather23.csv`** — Cleaned weather datasets with English headers used for Pandas data analysis.
 - **`time_and_space_complexity.pdf`** — Academic reference document covering time and space complexity analysis.
 
-## ⚙️ Requirements
+## Requirements
 
 Make sure you have Python 3.8+ installed along with the required libraries:
 
@@ -19,7 +19,7 @@ Make sure you have Python 3.8+ installed along with the required libraries:
 pip install pandas matplotlib networkx
 ```
 
-## 🚀 Usage
+## Usage
 
 Run any of the laboratory scripts directly using Python:
 
@@ -30,6 +30,6 @@ python3 lab04_graph_analysis.py
 python3 lab05_weather_analysis.py
 ```
 
-## 📄 License
+## License
 
 This project is open-source and available for educational reference.
